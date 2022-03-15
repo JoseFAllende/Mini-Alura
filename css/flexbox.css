@@ -1,5 +1,10 @@
 .headerPrincipal .container{
     display: flex;
+    /*Alineacion vertical  */
     align-items: center;
     justify-content: space-between;
+}
+
+.headerPrincipal-nav{
+    display: flex;
 }
